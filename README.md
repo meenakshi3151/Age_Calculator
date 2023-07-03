@@ -1,4 +1,4 @@
-# AgeCalculator
+# Age Calculator
 This Age Calculator repository is a simple and efficient tool that allows users to calculate the age of a person based on their entered date of birth
 With this application, users can quickly determine the current age of an individual by inputting their birth date and utilizing the current date as a reference point.
 
