@@ -1,5 +1,5 @@
 # Age Calculator
-This repository contains an Age Calculator, which is a simple and efficient tool that allows users to calculate the age of a person based on their entered date of birth.
+This repository contains an **Age Calculator** which is a simple and efficient tool that allows users to calculate the age of a person based on their entered date of birth.
 
 With this application, users can quickly determine the current age of an individual by inputting their birth date and utilizing the current date as a reference point.
 
@@ -7,13 +7,13 @@ This GitHub repository provides a user-friendly and intuitive interface for user
 
 The Age Calculator leverages modern programming languages and libraries to accurately calculate the age, taking into account leap years and other relevant factors. It uses the current date as a reference point, ensuring that the age is always up to date and accurate.
 
-# Deployed Link :
+## Deployed Link :
 
 https://agecalculatorbyjs.netlify.app/
 
 https://guruprasad9610.github.io/Age_Calculator/
 
-# Key Features:
+## Key Features:
 - Easy-to-use interface for entering the date of birth and obtaining the current age.
 - Accurate age calculation, accounting for leap years and other relevant factors.
 - Flexibility to integrate the age calculation functionality into other applications or use it as a standalone tool.
